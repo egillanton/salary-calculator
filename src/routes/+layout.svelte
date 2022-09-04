@@ -1,5 +1,6 @@
 <script>
-	import '../app.css';
+	import { Container } from 'postcss';
+import '../app.css';
 </script>
 
 <slot />
